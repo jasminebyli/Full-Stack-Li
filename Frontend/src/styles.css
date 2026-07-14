@@ -1,0 +1,63 @@
+h1 {
+    font-size: 60px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+p {
+    color: rgb(165, 42, 42);
+    font-size: 20px;
+    padding: 10px;
+    background-color: bisque;
+    border-radius: 10px;
+    
+}
+
+body {
+    padding: 150px;
+    margin: 0;
+    background-color: antiquewhite;
+
+}
+
+img {
+    
+    border-radius: 10px;
+    border: solid;
+    border-width: 10px;
+    border-color: rgb(156, 87, 3);
+}
+
+.side_images {
+    border-color: rgb(125, 66, 14);
+    display: flex;
+    gap: 20px;
+}
+
+a img{
+    text-decoration: none;
+    border-color: rgb(124, 63, 17);
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
+button {
+    border-radius: 10px;
+    border: solid;
+    border-width: 10px;
+    border-color: rgb(156, 87, 3);
+    background-color: bisque;
+
+    display: flex;
+    align-items: center;
+    
+    justify-content: center;
+
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+}
