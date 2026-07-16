@@ -1,15 +1,22 @@
 h1 {
+    color: lavender;
     font-size: 60px;
     align-items: center;
     justify-content: center;
     display: flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    color: lavender;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 p {
-    color: rgb(165, 42, 42);
+    color: lavender;
     font-size: 20px;
     padding: 10px;
-    background-color: bisque;
+    background-color: rgb(95, 11, 88);
     border-radius: 10px;
     
 }
@@ -17,7 +24,7 @@ p {
 body {
     padding: 150px;
     margin: 0;
-    background-color: antiquewhite;
+    background-color: rgb(80, 18, 94);
 
 }
 
@@ -26,31 +33,40 @@ img {
     border-radius: 10px;
     border: solid;
     border-width: 10px;
-    border-color: rgb(156, 87, 3);
+    border-color: rgb(61, 1, 55);
 }
 
 .side_images {
-    border-color: rgb(125, 66, 14);
+    border-color: rgb(61, 1, 55);
     display: flex;
     gap: 20px;
 }
 
 a img{
     text-decoration: none;
-    border-color: rgb(124, 63, 17);
+    border-color: rgb(61, 1, 55);
 }
 
 a {
     text-decoration: none;
-    color: brown;
+    color: lavender;
+}
+
+Link:hover {
+    color: black;
+}
+
+button:hover {
+    background-color: rgb(255, 172, 70);
 }
 
 button {
+    width: 200px;
     border-radius: 10px;
     border: solid;
     border-width: 10px;
-    border-color: rgb(156, 87, 3);
-    background-color: bisque;
+    border-color: rgb(61, 1, 55);
+    background-color: orchid;
 
     display: flex;
     align-items: center;
@@ -60,4 +76,10 @@ button {
     padding: 10px;
     margin: auto;
     margin-bottom: 20px;
+}
+
+.navbar {
+    border-color: rgb(61, 1, 55);
+    display: flex;
+    gap: auto;
 }

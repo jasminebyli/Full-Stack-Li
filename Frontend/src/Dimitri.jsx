@@ -1,12 +1,37 @@
 import './styles.css'
 import { Link } from 'react-router-dom'
-
+import FloatingLines from './FloatingLines.jsx';
 
 function Dimitri () {
     return(
         <div>
+            <div style={{ width: '100%', height: '100vh', position: 'fixed', zIndex: '-1' }}>
+              <FloatingLines 
+                enabledWaves={["top","middle","bottom"]}
+                // Array - specify line count per wave; Number - same count for all waves
+                lineCount={8}
+                // Array - specify line distance per wave; Number - same distance for all waves
+                lineDistance={8}
+                bendRadius={8}
+                bendStrength={-2}
+                interactive
+                parallax={true}
+                animationSpeed={1}
+                gradientStart="#e945f5"
+                gradientMid="#6f6f6f"
+                gradientEnd="#6a6a6a"
+            />
+            </div>
+
             <h1 className='nametag'>Dimitri Suburbs</h1>
-            <button> <Link to="/">Click to go back</Link></button>
+            
+            <div className="navbar">
+                <Link to="/"><button>Home</button></Link>
+                <Link to="/Timeline"><button>Timeline</button></Link>
+                <Link to="/Dimitri"><button>Dimitri Suburbs</button></Link>
+
+            </div>
+
             <p>Dimitri Suburbs is an art series where each character represents an element of the periodic table. 
                 Below is the picture of the sign seen at the front of the neighborhood.
             </p>
