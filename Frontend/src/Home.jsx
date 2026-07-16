@@ -60,7 +60,7 @@ function Home () {
                        
             <br></br>
             <p>I also created a song based on the sound that plays when you test the audio in CAASPP state testing. Click the image below to play it. </p>
-            <a href="https://www.youtube.com/watch?v=cvzink1-Jo4"><img src="src/assets/CAASPP.png" width="700px"></img></a>
+            <a target="_blank" href="https://www.youtube.com/watch?v=cvzink1-Jo4"><img src="src/assets/CAASPP.png" width="700px"></img></a>
             <p>Fun fact: CAASPP originally stands for "California Assessment of Student Performance and Progress", but in the context of the song name, it stands for "Concert Audio At Student Proctored Practice".</p>
         </>
     )

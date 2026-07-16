@@ -37,24 +37,30 @@ function Timeline () {
             
             <h2>May 5, 2009</h2>
             <p>I was born in Milpitas, California</p>
+            <img src="src/assets/Milpitas.jpg" width="400px"></img>
 
             <h2>August 2014</h2>
             <p>Started kindergarden at Spangler</p>
+            <img src="src/assets/Spangler.jpg" width="400px"></img>
 
             <h2>August 2015</h2>
             <p>Started 1st grade at Sinnott, stayed for 2nd and 3rd grade. My teacher name was Ms. Walia.</p>
+            <img src="src/assets/Sinnott.png" width="400px"></img>
 
             <h2>August 2018</h2>
             <p>Moved to Curtner for 4th grade. But I didn't like it because the students kept trying to blame farts.</p>
+            <img src="src/assets/Curtner.jpg" width="400px"></img>
 
             <h2>August 2019</h2>
             <p>Moved to Weibel for 5th grade. This was my first time walking to school, since Weibel happened to be in my neighborhood. 
                 </p>
+            <img src="src/assets/Weibel.jpg" width="400px"></img>
 
             <h2>2019 - 2020</h2>
             <p>I joined the school band as a flute player. 
                 Meanwhile, my teacher Ms. Klingler was having a baby, so Ms. Rodamer was the substitute. 
                 Interestingly, both teachers were in the class photo for the year.</p>
+            <img src="src/assets/band.jpg" width="400px"></img>
 
             <h2>March 13, 2020</h2>
             <p>We packed up our books and supplies to bring home due to COVID 19. (The reason I remember this date is because it also happened to be Friday 13th)</p>
@@ -91,6 +97,18 @@ function Timeline () {
             <h2>2022-2026</h2>
             <p>My mom signed me up for the USACO programming contest. 
                 For the first contest I attempted using Python, but since Python has long runtimes, my mom suggested swtiching to c++ since it runs faster.
+                Ever since, I was learning competitive c++ programming on X-Camp.
+            </p>
+
+            <h2>2025-2026</h2>
+            <p>I created the Social Dojo website to give kids with special needs an opportunity to practice conversations while earning badges for completion.
+                
+            </p>
+
+            <h2>2026 7/5 - 7/17</h2>
+            <p>This is the time when I was attending this very Stanford iD Tech camp. It's also my first time attending a summer camp.
+                My class was called Full Stack Engineering & AI Academy, but in practice it was mostly about designing a website.
+                And so, this is when I made this very website.
             </p>
             
         </div>

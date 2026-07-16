@@ -29,7 +29,7 @@ app.post("/chat", async (req, res) => {
         });
 
         res.json({
-            response: response.text;
+            response: response.text,
         });
 
     } catch(error){
