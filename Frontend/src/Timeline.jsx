@@ -36,15 +36,18 @@ function Timeline () {
 
             
             <h2>May 5, 2009</h2>
-            <p>I was born in Milpitas, California</p>
+            <p>I was born in Milpitas, California. My mom and dad were living in separate houses since some time before then. </p>
             <img src="src/assets/Milpitas.jpg" width="400px"></img>
 
             <h2>August 2014</h2>
-            <p>Started kindergarden at Spangler</p>
+            <p>Started kindergarden at Spangler. 
+                There wasn't a lot of stuff worth noting, except when people took turns riding a tricycle around a track, they either tried to race each other. 
+                Alternatively, if I was the only one there, I would go as slow as possible to make sure that I ride as long as possible.</p>
             <img src="src/assets/Spangler.jpg" width="400px"></img>
 
             <h2>August 2015</h2>
-            <p>Started 1st grade at Sinnott, stayed for 2nd and 3rd grade. My teacher name was Ms. Walia.</p>
+            <p>Started 1st grade at Sinnott, stayed for 2nd and 3rd grade. My teacher name was Ms. Walia. 
+                These years weren't so much about learning as they were about watching classmates play games or do silly stuff.</p>
             <img src="src/assets/Sinnott.png" width="400px"></img>
 
             <h2>August 2018</h2>
@@ -53,6 +56,7 @@ function Timeline () {
 
             <h2>August 2019</h2>
             <p>Moved to Weibel for 5th grade. This was my first time walking to school, since Weibel happened to be in my neighborhood. 
+                It was my favorite elementary school, but sadly, I only got to stay for 1 year.
                 </p>
             <img src="src/assets/Weibel.jpg" width="400px"></img>
 
@@ -64,6 +68,7 @@ function Timeline () {
 
             <h2>March 13, 2020</h2>
             <p>We packed up our books and supplies to bring home due to COVID 19. (The reason I remember this date is because it also happened to be Friday 13th)</p>
+            <img src="src/assets/covid.jpg" width="400px"></img>
 
             <h2>August 2020</h2>
             <p>Started 6th grade for Horner Middle School, but on distance learning due to Covid. 
@@ -74,6 +79,7 @@ function Timeline () {
                 I resumed band as a flute player, but after my dad worried about possible covid risk, he suggested I switch to an instrument that I don't have to blow to play.
                 So I switched to percussion. But turns out I actually liked percussion better than flute.
             </p>
+            <img src="src/assets/Horner.jpg" width="400px"></img>
 
             <h2>December 2021</h2>
             <p>I performed in a school concert for the first time. Specifically the Horner 2021 Winter Concert, as Beginning Band. 
@@ -93,6 +99,7 @@ function Timeline () {
             <p>My mom signed me up for a full Python course on Udemy, although it wasn't my first time typing Python code. 
                 Interestingly, the course also happened to include HTML web development.
             </p>
+            <img src="src/assets/udemy.jpg" width="400px"></img>
 
             <h2>2022-2026</h2>
             <p>My mom signed me up for the USACO programming contest. 
@@ -110,6 +117,7 @@ function Timeline () {
                 My class was called Full Stack Engineering & AI Academy, but in practice it was mostly about designing a website.
                 And so, this is when I made this very website.
             </p>
+            <img src="src/assets/stanford.jpg" width="400px"></img>
             
         </div>
     )
