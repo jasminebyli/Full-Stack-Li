@@ -33,7 +33,9 @@ function Home () {
 
             </div>
 
-            <p>I created this website as my portfolio. You may view a timeline of my current life up until now by clicking the button below.</p>
+            <p>I created this website as my portfolio for the Full Stack class in iD Tech Summer Camp. 
+                While the full name of the camp was "Full Stack Engineering and AI Academy", it was really mostly about designing a website. 
+                Anyways, you may view a timeline of my current life up until now by clicking the button below.</p>
             <Link to="/Timeline"><button>My timeline</button></Link>
                 
             <p>
